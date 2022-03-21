@@ -1,0 +1,7 @@
+.time-score {
+  font-size: 20px;
+}
+
+.time-score > span:first-of-type {
+  font-weight: bold;
+}

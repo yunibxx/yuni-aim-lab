@@ -1,0 +1,21 @@
+.start-screen,
+.over-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.play-screen-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.start-logo {
+  width: 200px;
+  height: auto;
+  margin: 20px 0px;
+}

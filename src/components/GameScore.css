@@ -1,0 +1,7 @@
+.game-score {
+  font-size: 20px;
+}
+
+.game-score > span:first-of-type {
+  font-weight: bold;
+}

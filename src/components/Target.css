@@ -1,0 +1,9 @@
+.target-button {
+  background-color: #151320;
+  border-radius: 50%;
+  display: block;
+  border: none;
+  background: radial-gradient(circle at 30% 30%, #6b6688, #151320);
+  box-shadow: 0 8px 20px rgb(0 0 0 / 5%);
+  cursor: pointer;
+}
