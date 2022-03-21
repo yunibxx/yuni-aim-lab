@@ -8,7 +8,7 @@ A simple 2d game built using React. Demo [here]()
 ### Installing
 
 * Fork and clone into your repository
-* run `npm run start` 
+* run `npm i && npm run start` 
 
 ## Help
 
