@@ -1,6 +1,6 @@
 # Yuni's 2d Aim Lab
 
-A simple 2d game built using React. Demo [here]()
+A simple 2d game built using React. Demo and tutorial [here](https://youtu.be/0jvcqgwUO1Y)
 
 
 ## Getting Started
